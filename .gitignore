@@ -11,3 +11,6 @@
 /EmployeeManagementSystem/bin/Debug/net6.0
 /EmployeeManagementSystem/obj
 /EmployeeManagementSystem/EmployeeManagementSystem.csproj.user
+/EmployeeManagementSystem/Web.csproj.user
+/Tests/bin/Debug/net6.0
+/Tests/obj
