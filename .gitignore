@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/API/bin/Debug/net6.0
+/API/obj
+/API/API.csproj.user
+/DAL/bin/Debug/net6.0
+/DAL/obj
+/EmployeeManagementSystem/bin/Debug/net6.0
+/EmployeeManagementSystem/obj
+/EmployeeManagementSystem/EmployeeManagementSystem.csproj.user
